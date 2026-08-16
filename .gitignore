@@ -1,0 +1,5 @@
+faim-venv
+.~intro-ml-python.pptx
+*.ipynb_checkpoints*
+*__pycache__*
+figures/*
